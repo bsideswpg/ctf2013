@@ -1,0 +1,2 @@
+Invalid URL. The regex we use is:
+^/flags/[-_a-zA-Z0-9]{1,32}/[-_a-zA-Z0-9]{1,32}$
