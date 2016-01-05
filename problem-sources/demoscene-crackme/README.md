@@ -6,4 +6,4 @@ to solve.
 
 Purpose: When all you have is IDA, everything looks statically reversible :)
 
-![Screenshot of this problem in QEMU](/screenshot.png?raw=true "QEMU")
+![Screenshot of this problem in QEMU](/problem-sources/demoscene-crackme/screenshot.png?raw=true "QEMU")
